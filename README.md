@@ -21,7 +21,4 @@ Each project is self-contained in its own folder and includes:
 - **Python 3**
 - **pandas** – for data manipulation and analysis
 - **plotly.express** – for interactive visualizations
-- (Optional: `numpy`, `matplotlib`, `seaborn`, etc. depending on the project)
-
-## 📁 Structure
 
