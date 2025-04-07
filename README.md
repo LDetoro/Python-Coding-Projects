@@ -1,24 +1,38 @@
-# Python Data Analysis Projects
+# 🐍 Python Data Analysis & Projects
 
-Welcome to my collection of Python-based data analysis projects. Each project explores a unique dataset and provides visual insights using `pandas` for data manipulation and `plotly.express` for interactive visualization.
+This repository contains various Python projects covering data analysis, interactive games, and business insights. These projects utilize `pandas` for data manipulation and `plotly.express` for data visualization. Each project was created as part of my personal development in Python programming and data storytelling.
 
-## 🔍 Overview
+---
 
-This repository includes multiple standalone projects focused on data analysis and visualization. The primary goals of these projects are:
+## 📂 Contents
 
-- Practicing data wrangling and exploration with `pandas`
-- Creating clear, interactive visualizations with `plotly.express`
-- Gaining insights from diverse datasets
+### 🏈 Sports Analytics
+- **M3_NCAA_D1_Universities_Louis_Thomas_Detoro.ipynb** – Analyzes NCAA Division I football data, exploring team performance, win rates, and trends across seasons.
 
-Each project is self-contained in its own folder and includes:
+### 🏫 Education Data
+- **M6_NYC_Schools_Louis_Thomas_Detoro.ipynb** – Visualizes and analyzes NYC public school data, identifying performance trends and potential factors affecting outcomes.
 
-- A Jupyter Notebook or Python script
-- A dataset (if small) or a link to where it can be found
-- A brief explanation of the analysis and findings
+### 🧠 Games & Fun Projects
+- **M4_Guess_The_Number_Louis_Thomas_Detoro.ipynb** – A simple game where the user tries to guess a randomly selected number within a certain range.
+- **dr_who_quiz_Louis_Thomas_Detoro.ipynb** – An interactive game that compares user input against traits of two people and tells you who you’re more like.
 
-## 🛠 Technologies Used
+### 💼 Business Insights
+- **M2_ASOS_Revenue_Louis_Thomas_Detoro.ipynb** – Breaks down ASOS revenue data to identify sales trends, seasonal patterns, and business performance over time.
 
-- **Python 3**
-- **pandas** – for data manipulation and analysis
-- **plotly.express** – for interactive visualizations
+---
 
+## 🛠 Tools & Libraries
+
+- `pandas`
+- `plotly.express`
+- `random` (for game logic)
+- `Python 3`
+
+---
+
+## 🎯 Purpose
+
+These projects aim to:
+- Strengthen my skills in Python programming
+- Apply data analysis techniques to real-world datasets
+- Create engaging and interactive coding experiences
